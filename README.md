@@ -13,12 +13,12 @@ I didn't mess with the envelope of the sound, or the balance between the voices.
 There is almost certainly a better way to deal with rhythm than using time.sleep all the time.  It was not immediately obvious from the docs how to do this with pyo, so I just winged it.
 
 
-# Dependencies
+## Dependencies
 
 - pyo (http://code.google.com/p/pyo/)
 - MusicOb (https://github.com/jonathanmarmor/MusicOb)
 
 
-# To Do
+## To Do
 
 - Remove external dependency on my MusicOb library.
